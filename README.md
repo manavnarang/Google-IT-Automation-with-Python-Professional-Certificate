@@ -3,7 +3,7 @@
 
 **To Access the Course:** [click here](https://www.coursera.org/learn/python-crash-course/)
 
-**WHAT YOU WILL LEARN
+**WHAT YOU WILL LEARN**
 
 1) Understand what Python is and why Python is relevant to automation
 
