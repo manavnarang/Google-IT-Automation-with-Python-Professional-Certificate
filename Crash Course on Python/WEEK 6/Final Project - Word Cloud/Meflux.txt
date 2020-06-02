@@ -1,1 +1,22 @@
+Python had a big year in 2019. According to popular resources like GitHub and Stack Overflow, it's trending as the second most popular language in the world.
 
+"Python, the fastest-growing major programming language, has risen in the ranks of programming languages in our survey yet again, edging out Java this year and standing as the second most loved language (behind Rust)."
+— Stack Overflow Insights
+
+Similarly, Python grew in readership on Opensource.com by leaps and bounds. Here are the top Python articles from 2019, grouped by topic, for your perusal.
+
+Why choose Python?
+There are many languages out there, so what makes Python such a destination? If the most-read articles tell us anything, it's that people enjoy its flexibility. There are multiple paradigms that are accessible to Python developers, as Jigyasa Grover explains, including the popular object-oriented programming Seth Kenlon's tutorial shows.
+
+If you're a long-time user and looking for advanced examples of why Python is a perfect language, Moshe Zadka covers his top 5 reasons for loving Python. If that's not enough, you can also use it play around with powerful tools without a lot of code, like in Parul Pandey's tutorial on image manipulation.
+
+Configuring Python
+As Python's popularity continues to rise, more people are starting with the language than ever before. Many of those first-timers are doing so on the Mac operating system and are using a guide to setting up Python 3 that Moshe and I wrote.
+
+After installing Python, decisions on where to write your code come next. There are many options when it comes to text editors and integrated development environments (IDEs), but readers appear to favor graphical options, as Stephan Avenwedde's article about Pythonic and my article on JupyterLab were the most read articles on that topic in 2019.
+
+On the path to getting confident with the language, developers will have to face the multitude of options available for how to manage versions of the language and project dependencies. Luckily, László Kiss Kollár's article makes managing Python packages a bit simpler.
+When you're ready to configure an IDE with all of the features you'll want to make the most of the language, be sure to give the opinionated linter Black a try, as Moshe explains, to keep your code clean.
+
+Wrapping up
+No matter where you are in your path to enjoying Python programming, the top Python articles from 2019 are here to help you along the way. I can't wrap this up without at least one acknowledgment of the importance of testing, and Moshe offers another well-read article on tox for that purpose.
